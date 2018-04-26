@@ -13,6 +13,6 @@ yarn
 #or npm install
 ./node_modules/.bin/webpack-dev-server
 ```
-> If you don't have `rust`, `nightly`, the `wasm32-unknown-unknown`, or target `wasm-bindgen`; [follow along here]() to get started
+> If you don't have `rust`, `nightly`, the `wasm32-unknown-unknown`, or target `wasm-bindgen`; [follow along here](https://freemasen.github.io/wasm_tutorial/setps/02-getting-started.html) to get started
 
 At this point you can open firefox and navigate to `localhost:8080` to see it working.
