@@ -1,6 +1,6 @@
 # Hello WASM
 
-This project is used as an example of how to get started working with WASM as part of a [larger tutorial](https://freemasen.github.io/wasm_tutorial). You can find a live demo of it [here]().
+This project is used as an example of how to get started working with WASM as part of a [larger tutorial](https://freemasen.github.io/wasm_tutorial). You can find a live demo of it [here](https://freemasen.github.io/wasm_tutorial/steps/08.1-live-hw.html).
 
 To build this project you can execute the following commands.
 
